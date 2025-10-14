@@ -1,4 +1,4 @@
-# 🇮🇳 India Climate & Environmental Dashboard (1960–2020)
+# 🇮🇳 Tracking Climate & Ecological Changes in India
 
 ## ℹ️ About
 This Power BI dashboard visualizes six decades of India's environmental data, including temperature anomalies, CO₂ emissions, deforestation rates, and natural disaster impacts. It aims to provide stakeholders with actionable insights to inform policy decisions and raise awareness about environmental changes.
