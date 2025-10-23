@@ -16,7 +16,7 @@ This repository highlights my **Business Analysis** and **Data Analytics** proje
 
 ---
 
-## 🛒 Project 1: Return & Refund Management System (RRMS) — *Business Case Study* 
+## 🛒 Project 1: Return & Refund Management System (RRMS) — *Business Case Study* - BA Case Study
 ### 🔑 Key Insights
 - Designed a structured solution to automate the **return and refund process** for an e-commerce platform.  
 - Reduced refund turnaround time from **8–10 days to ≤ 5 days** through process optimization.  
