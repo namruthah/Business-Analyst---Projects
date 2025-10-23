@@ -16,8 +16,7 @@ This repository highlights my **Business Analysis** and **Data Analytics** proje
 
 ---
 
-## 🛒 Project 1: Return & Refund Management System (RRMS) — *Business Case Study* - https://github.com/namruthah/Business-Analyst---Projects/tree/main/Tracking%20Climate%20%26%20Ecological%20Changes%20in%20India%20Power%20BI%20Project
-
+## 🛒 Project 1: Return & Refund Management System (RRMS) — *Business Case Study* 
 ### 🔑 Key Insights
 - Designed a structured solution to automate the **return and refund process** for an e-commerce platform.  
 - Reduced refund turnaround time from **8–10 days to ≤ 5 days** through process optimization.  
