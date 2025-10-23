@@ -1,7 +1,6 @@
 # 🛒 Return & Refund Management System (RRMS)
 
-**Created by:** Namrutha H  
-**Version:** 1.0  
+**Created by:** Namrutha H   
 **Date:** 22-10-2025  
 
 ---
