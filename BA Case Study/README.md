@@ -29,17 +29,6 @@ The RRMS aims to automate the return and refund process through a centralized, t
 
 ---
 
-## 🗂️ Repository Map
-│
-├── 📄 BRD - Return and Refund Management System.pdf
-├── 📄 FRD - Return and Refund Management System.pdf
-├── 📄 Use Case Diagram (Lucidchart)
-├── 🎨 Wireframes (Figma)
-└── 📝 README.md
-
-
----
-
 ## 🧩 Project Scope
 
 ### ✅ In Scope
@@ -62,7 +51,6 @@ The RRMS aims to automate the return and refund process through a centralized, t
 | **Deliverable 2** | Functional Requirement Document (FRD) | MS Word |
 | **Deliverable 3** | Use Case Diagram | Lucidchart |
 | **Deliverable 4** | Wireframes / UI Mock-ups | Figma |
-| **Deliverable 5** | Process Flow (Refund Handling) | Lucidchart |
 
 ### 💼 Skills Applied
 - Business Process Analysis  
