@@ -10,7 +10,7 @@ This repository highlights my **Business Analysis** and **Data Analytics** proje
 |-----------|--------|
 | **Business Analysis** | Requirement Gathering, BRD & FRD Documentation, Use Case Modeling, Wireframing, Process Flow Design |
 | **Data Analysis** | SQL, Power BI, Excel, Data Visualization, Trend Analysis |
-| **Technical Tools** | MS Word, Power BI, Lucidchart, Figma, BigQuery, PowerPoint, Excel |
+| **Technical Tools** | MS Word, Power BI, Lucidchart, Figma, PowerPoint, Excel |
 | **Analytical Skills** | Problem Solving, Critical Thinking, Root Cause Analysis |
 | **Soft Skills** | Communication, Stakeholder Management, Collaboration, Adaptability, Time Management, Attention to Detail |
 
