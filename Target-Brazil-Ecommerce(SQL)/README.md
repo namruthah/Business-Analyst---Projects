@@ -48,5 +48,4 @@ The analysis is conducted on the `Business_Case_Target_SQL` database, which cont
 
 ## 🔧 Technologies Used
 - **SQL** for querying and analysis
-- **Google BigQuery**
 
